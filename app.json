@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "292fb7e3-525b-4119-8309-929b9234a592"
+      }
+    },
+    "owner": "lmasucci-dev"
   }
 }
